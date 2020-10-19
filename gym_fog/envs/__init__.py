@@ -1,0 +1,5 @@
+#from gym_fog.envs.fog_env_latency import FogEnvLatency
+from gym_fog.envs.fog_env_energy_efficiency_large import FogEnvEnergyEfficiencyExtraLarge
+#from gym_fog.envs.fog_env_energy_efficiency_large import FogEnvEnergyEfficiencyLarge
+from gym_fog.envs.fog_env_energy_efficiency_small import FogEnvEnergyEfficiencySmall
+#from gym_fog.envs.fog_env_energy_efficiency_multi_discrete import FogEnvEnergyEfficiencyMultiDiscrete
