@@ -4,7 +4,7 @@ from gym_fog.milp import ilp
 import numpy as np
 
 if __name__ == '__main__':
-    Users = 48
+    Users = 10
     runNumber = 1
     sim = Simulation("CPLEX_JOURNAL_JNCA", Users, runNumber, "MIN_COST", "NONE", "NONE", "NONE", "NONE","NONE")
 
